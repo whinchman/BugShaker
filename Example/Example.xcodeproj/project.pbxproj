@@ -119,7 +119,7 @@
 					C573BD6B1CA4436A0021F8ED = {
 						CreatedOnToolsVersion = 7.3;
 						DevelopmentTeam = 4J9G6749JK;
-						LastSwiftMigration = 0810;
+						LastSwiftMigration = 0820;
 					};
 				};
 			};
@@ -283,7 +283,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dtrenz.BugShaker-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 2.3;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -297,7 +297,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.dtrenz.BugShaker-Example";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_VERSION = 2.3;
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
